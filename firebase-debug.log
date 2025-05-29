@@ -1,0 +1,18 @@
+[debug] [2025-05-26T22:36:40.567Z] ----------------------------------------------------------------------
+[debug] [2025-05-26T22:36:40.573Z] Command:       C:\Logiciel\node.exe C:\Users\ENDEAVOR\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2025-05-26T22:36:40.576Z] CLI Version:   14.4.0
+[debug] [2025-05-26T22:36:40.576Z] Platform:      win32
+[debug] [2025-05-26T22:36:40.576Z] Node Version:  v22.14.0
+[debug] [2025-05-26T22:36:40.577Z] Time:          Mon May 26 2025 23:36:40 GMT+0100 (heure normale d’Afrique de l’Ouest)
+[debug] [2025-05-26T22:36:40.578Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-05-26T22:36:40.581Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] Already logged in as fadel.uy1.user@gmail.com
+[debug] [2025-05-26T22:36:41.477Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2025-05-26T22:36:41.477Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2025-05-26T22:36:46.225Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\ENDEAVOR\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:267:49)
+    at listOnTimeout (node:internal/timers:594:17)
+    at process.processTimers (node:internal/timers:529:7)
+[error] 
+[error] Error: An unexpected error has occurred.

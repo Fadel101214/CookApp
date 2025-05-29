@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880085018167",
+    "project_id": "cookapp-9dc15",
+    "storage_bucket": "cookapp-9dc15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880085018167:android:d0c9ba986a3302d503c1b2",
+        "android_client_info": {
+          "package_name": "com.cookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXO_sfQJ29CRKicuohV7qDu23T_YN9AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
